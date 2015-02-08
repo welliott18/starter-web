@@ -8,6 +8,10 @@ This example is to show different parts of the Git repo and various commands usi
 
 ## Purpose
 
+As stated above, this project is used as a sample project to learn Git
+
 ## Deployment
+
+Deployment can be on any webserver
 
 ## How To Contribute
