@@ -16,5 +16,7 @@ Deployment can be on any webserver
 
 ## How To Contribute
 
+Please fork this repo then issue Pull Request for review
+
 ### Copyright
 2015 WILLPWRD
