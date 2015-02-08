@@ -15,3 +15,6 @@ As stated above, this project is used as a sample project to learn Git
 Deployment can be on any webserver
 
 ## How To Contribute
+
+### Copyright
+2015 willpwrd
