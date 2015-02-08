@@ -17,4 +17,4 @@ Deployment can be on any webserver
 ## How To Contribute
 
 ### Copyright
-2015 willpwrd
+2015 WILLPWRD
